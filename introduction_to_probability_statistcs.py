@@ -1,3 +1,6 @@
+import numpy as np
+
+
 #Exercise 1
 
 def seq_sum(n):
