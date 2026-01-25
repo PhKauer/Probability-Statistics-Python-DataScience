@@ -1,10 +1,30 @@
 # Probability-Statistics-Python-DataScience
 Exercises and projects from UCSanDiegoX DSE210x course:  "Probability and Statistics in Data Science using Python"
 
-Exercise 1:
-Write a function, seq_sum(n), which generates  n  random coin flips from a fair coin and then returns the number of heads. A fair coin is defined to be a coin where  P( heads )=12
+Topic 1: Introduction to Probability and Statistics, Seção completada
 
-Exercise 2:
-Write a function, estimate_prob(n,k1,k2,m), that uses seq_sum(n) to estimate the following probability:
-P(k1<=number of heads in n flips<k2) 
-The function should estimate the probability by running  m  different trials of seq_sum(n), probably using a for loop.
+Topic 2: Sets, Seção completada
+
+Topic 3: Counting, Seção incompleta
+
+Topic 4: Combinatorics, Seção incompleta
+
+Topic 5: Probability Introduction, Seção incompleta
+
+Topic 6: Conditional Probability, Seção incompleta
+
+Topic 7: Random Variables, Expectation, and Variance, Seção incompleta
+
+Topic 8: Discrete Distribution Families, Seção incompleta
+
+Topic 9: Continuous Distribution Families, Seção incompleta
+
+Topic 10: Inequalities and Limit Theorems, Seção incompleta
+
+Topic 11: Statistics, Parameter Estimation and Confidence Interval, Seção incompleta
+
+Earning a Certificate - Practice Proctored Exam, Seção incompleta
+
+Topic 12: Regression and PCA, Seção incompleta
+
+Topic 13: Hypothesis Testing
