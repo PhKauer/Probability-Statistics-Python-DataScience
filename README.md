@@ -5,7 +5,7 @@ Topic 1: Introduction to Probability and Statistics, Seção completada
 
 Topic 2: Sets, Seção completada
 
-Topic 3: Counting, Seção incompleta
+Topic 3: Counting, Seção completada
 
 Topic 4: Combinatorics, Seção incompleta
 
